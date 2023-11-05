@@ -1,0 +1,29 @@
+body {
+  background-color: coral;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  margin-top: 30px;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  background-color: chocolate;
+  border-radius: 4px;
+  display: inline;
+  margin: 0 10px;
+  padding: 10px 20px;
+}
+
+li a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}

@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: coral;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  border: 2px solid white;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+p, ul, ol {
+  background-color: chocolate;
+  border-radius: 4px;
+  font-weight: bold;
+  margin: 0 auto;
+  max-width: 768px;
+  text-align: justify;
+  width: 100%;
+}
+
+p {
+  padding: 20px;
+}
+
+ul, ol {
+  padding: 20px 40px;
+}
